@@ -1,0 +1,2 @@
+POST https://6r0yfdbr64.execute-api.us-east-1.amazonaws.com/Prod/hello
+x-my-authorization-token: allow
